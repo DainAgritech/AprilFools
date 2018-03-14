@@ -1,0 +1,3 @@
+# AprilFools
+
+let it burn
